@@ -3,5 +3,5 @@ pandas
 plotly.express
 numpy
 matplotlib
-sklearn
+scikit-learn
 graphviz
