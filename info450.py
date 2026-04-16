@@ -18,8 +18,8 @@ OCC_csv_file_path = 'OccupationCodes.csv'
 
 """Imported all of the libraries and google drive. Mounted google drive so that we can all colaborate on the same notebook."""
 
-df = pd.read_csv(IPUMS.csv)
-OCC_df = pd.read_csv(OccupationCodes.csv)
+df = pd.read_csv('IPUMS.csv')
+OCC_df = pd.read_csv('OccupationCodes.csv')
 
 """converted csv to dataframes"""
 
