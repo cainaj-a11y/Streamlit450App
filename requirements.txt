@@ -2,5 +2,6 @@ streamlit
 pandas
 plotly.express
 numpy
-matplotlib
+matplotlib.pyplot
 sklearn
+graphviz
